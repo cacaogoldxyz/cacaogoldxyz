@@ -1,12 +1,11 @@
 # 🌍 About Cacao Gold
-💻 Cacao Gold | A commitment to innovation and sustainability
-Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.
+💻 Cacao Gold | Cacao EcoFarming On Solana As A Socio-Climate Impact Enterprise 
 
-A passion for creating spaces. Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.
+With DePIN technology, Cacao Gold converts cacao ecofarming as an RWA on an 800-hectare land allocated by the Philippine government in a public-private partnership to combat the global cacao supply crisis and mitigate climate change.
 
-Études Architectural Solutions offers a comprehensive range of services, including renovation and restoration, continuous support, consulting, project management, and innovative architectural solutions. With a focus on blending creativity and expertise, they provide seamless project execution, ensuring clients have access to all the tools and resources needed, including app-based solutions for efficient management and communication throughout the project.
+Cacao Gold is a blueprint for how blockchain technology can transform industries with significant socio-climate impacts. By merging decentralized finance, real-world asset tokenization, and sustainable agriculture, it creates a scalable, transparent model for ecological and social empowerment.
 
-“Études has saved us thousands of hours of work and has unlocked insights we never thought possible.”
+This project not only preserves indigenous knowledge and ecosystems but also introduces a groundbreaking economic system where profit, conservation, and community are seamlessly integrated.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
