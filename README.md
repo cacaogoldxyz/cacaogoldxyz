@@ -34,10 +34,10 @@ Supply Chain Transparency: Solana allows cacao farms to integrate IoT data into 
 Predictive Maintenance: IoT sensors monitor farm equipment (e.g., irrigation systems, tractors) and send real-time data on wear and tear. Solana-based smart contracts can automatically order repairs or replacements when sensors detect equipment failures, preventing costly breakdowns and improving farm efficiency.
 
 4.1 Key Stakeholders
-Indigenous Communities: Own and manage cacao farms, benefit from profits and governance tokens.
-Investors: Purchase tokenized assets, gaining financial returns while supporting sustainable practices.
-Consumers: Purchase premium sustainable cacao products and offset carbon emissions through cacao NFTs.
-Environmental NGOs: Partner in carbon credit verification and oversee ecological conservation.
+a. Indigenous Communities: Own and manage cacao farms, benefit from profits and governance tokens.
+b. Investors: Purchase tokenized assets, gaining financial returns while supporting sustainable practices.
+c. Consumers: Purchase premium sustainable cacao products and offset carbon emissions through cacao NFTs.
+d. Environmental NGOs: Partner in carbon credit verification and oversee ecological conservation.
 4.2 Token Economics
 Cacao Token (CTKN): Represents ownership of cacao farm yield, offering staking rewards and dividend payouts based on annual harvests.
 Carbon Credit NFTs: Generated through sustainable farming practices, these tokens are sold on secondary markets to offset carbon footprints, providing additional revenue streams.
@@ -47,9 +47,9 @@ Carbon Credit NFTs: Generated through sustainable farming practices, these token
 5.1 Solana is highly compatible with Decentralized Autonomous Organizations (DAOs), which is key for the governance model of the cacao farming project. The Solana blockchain enables the creation of community-driven DAOs that give indigenous communities significant decision-making power over farm management and resource allocation. With Solana’s infrastructure, DAO governance can be securely and efficiently implemented.
 
 5.2 Revenue Distribution A percentage of profits generated from the cacao yield and carbon credit sales are reinvested in indigenous communities. This funds:
-Local education and infrastructure
-Healthcare
-Development of sustainable farming technologies
+a. Local education and infrastructure
+b. Healthcare
+c. Development of sustainable farming technologies
 
 6. Climate Impact and Ecological Conservation
 6.1 Agroforestry and Sustainable Practices The project employs regenerative agriculture techniques, blending cacao cultivation with other native crops. This increases soil fertility, enhances biodiversity, and promotes carbon sequestration. Cacao trees act as a carbon sink, offsetting the emissions from cacao production and contributing to the global fight against climate change.
@@ -63,10 +63,11 @@ Carbon Credit NFTs: Generated through sustainable farming practices, these token
 
 8. Roadmap and Future Development
 8.1 Pilot Project: The first phase will involve a 800-hectare cacao farm in a public-private partnership with the Philippine government and with direct involvement from indigenous communities. This phase will test the scalability of Solana's infrastructure in integrating farming practices with tokenization.
-Q4 2024: Token minting, community onboarding, and smart contract deployment.
-Q1 2025: DAO governance fully implemented, with tokenized cacao production beginning.
+Q4 2024: Community onboarding, and DePIN infrastructure development
+Q1 2025: Deployment to mainnet
+Q2 2025: Tokenized cacao production
 
-8.2 Scaling Globally Once the pilot proves successful, the project will scale to other cacao-producing regions, expanding to Africa and Asia. The eventual goal is to create a global cacao cooperative that leverages blockchain for conservation and socio-economic empowerment.
+8.2 Scaling Globally Once the pilot proves successful, the project will scale to other cacao-producing regions, expanding to Africa and Asia. The eventual goal is to create a global cacao cooperative that leverages Solana blockchain for conservation and socio-economic empowerment.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cacaogolddao) 
