@@ -8,7 +8,7 @@ Cacao Gold is a blueprint for how blockchain technology can transform industries
 This project not only preserves indigenous knowledge and ecosystems but also introduces a groundbreaking economic system where profit, conservation, and community are seamlessly integrated.
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cacaogolddao) 
 
 ## 🌐 Website
 🌐 https://cacaogold.xyz
