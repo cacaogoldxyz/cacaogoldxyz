@@ -76,7 +76,7 @@ Q2 2025: Tokenized cacao production
 8.2 Scaling Globally Once the pilot proves successful, the project will scale to other cacao-producing regions, expanding to Africa and Asia. The eventual goal is to create a global cacao cooperative that leverages Solana blockchain for conservation and socio-economic empowerment.
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cacaogolddao) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/CacaoGoldDAO) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cacaogolddao) 
 
 ## 🌐 Website
 🌐 https://cacaogold.xyz
