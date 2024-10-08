@@ -9,7 +9,7 @@ This project not only preserves indigenous knowledge and ecosystems but also int
 
 1. Introduction
 
-The global demand for cacao, the raw material of chocolate, has grown significantly. However, current cacao farming practices often exploit indigenous communities and degrade ecosystems. There is an urgent need for innovative solutions that align financial interests with sustainable practices, ecological conservation, and socio-economic empowerment. The Decentralized Cacao EcoFarming Utilizing Solana RWA Infrastructure  project leverages decentralized physical infrastructure (DePIN) and blockchain technology to create a transparent, sustainable, and scalable model for the global cacao industry.
+The global demand for cacao, the raw material of chocolate, has grown significantly. However, current cacao farming practices often exploit indigenous communities and degrade ecosystems. There is an urgent need for innovative solutions that align financial interests with sustainable practices, ecological conservation, and socio-economic empowerment. The Decentralized Cacao EcoFarming Utilizing Solana RWA Infrastructure project leverages decentralized physical infrastructure (DePIN) and blockchain technology to create a transparent, sustainable, and scalable model for the global cacao industry.
 
 This initiative focuses on three key objectives:
 
