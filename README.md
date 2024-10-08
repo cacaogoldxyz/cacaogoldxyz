@@ -12,11 +12,11 @@ The global demand for cacao, the raw material of chocolate, has grown significan
 
 This initiative focuses on three key objectives:
 
-1.Indigenous Empowerment: Providing indigenous communities with ownership, decision-making power, and equitable revenue streams.
+1. Indigenous Empowerment: Providing indigenous communities with ownership, decision-making power, and equitable revenue streams.
 
-2.Ecological Conservation: Promoting agroforestry practices that aims to protect the cacao ecosystem and certain species from extinction while generating revenue through tokenized carbon credits.
+2. Ecological Conservation: Promoting agroforestry practices that aims to protect the cacao ecosystem and certain species from extinction while generating revenue through tokenized carbon credits.
 
-3.Ethical Wealth Generation to Investors: The farmers and stakeholder community will benefit mutually from a co-shared business relationship aimed at long-term creation of wealth following moral standars effecting the environment and society. 
+3. Ethical Wealth Generation to Investors: The farmers and stakeholder community will benefit mutually from a co-shared business relationship aimed at long-term creation of wealth following moral standars effecting the environment and society. 
 
 2. The Socio-Climate Impact of Cacao Farming
 2.1 Cacao and the Climate Crisis Cacao farming is traditionally labor-intensive and relies heavily on deforestation, monoculture, and pesticide use, which degrade soil and biodiversity. In regions like Latin America and Africa, indigenous communities are often marginalized in the global cacao supply chain, receiving little financial benefit despite being key custodians of cacao-rich ecosystems.
